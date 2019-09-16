@@ -1,5 +1,14 @@
-# Space Snake
+# SpaceSnake
 
-Game
+<hr>
 
-Snake + Defence
+### * ChapJun & Knohin
+
+#### * Game
+
+#### * Snake + Defence
+
+<hr>
+
+* 개발 언어 : C# 
+* 개발 엔진 : Unity (WebGL) – 웹 게임 
